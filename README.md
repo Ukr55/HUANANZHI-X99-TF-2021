@@ -1,0 +1,2 @@
+# HUANANZHI-X99-TF-2021
+CX99DE30 BIOS for HUANANZHI X99-TF GAMING Motherboard 11/24/2021 (For Motherboard 2021 Edition, with nuvoTon NCT5567D-B)
